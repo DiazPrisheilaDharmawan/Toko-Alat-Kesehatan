@@ -12,7 +12,7 @@
                 </div>
             </div>
         </header> -->
-<link href="css/main.css" rel="stylesheet" />
+<link href="css/2.css" rel="stylesheet" />
 <section class="home" id="home">
     <div class="container">
         <div class="home-wrapper d-grid">
