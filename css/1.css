@@ -2755,13 +2755,13 @@ fieldset:disabled a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #ff4747;
+  border-color: #ff4747;
 }
 .btn-info:hover {
   color: #fff;
-  background-color: #138496;
-  border-color: #117a8b;
+  background-color: #ff0000;
+  border-color: #ff0000;
 }
 .btn-info:focus,
 .btn-info.focus {
@@ -2934,8 +2934,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #f4623a;
-  border-color: #f4623a;
+  color: #ff6b6b;
+  border-color: #ff6b6b;
 }
 .btn-outline-primary:hover {
   color: #fff;
@@ -10527,8 +10527,8 @@ header.masthead {
   padding-bottom: calc(10rem - 4.5rem);
   background: linear-gradient(
       to bottom,
-      rgb(0 0 0 / 40%) 0%,
-      rgb(245 242 240 / 45%) 100%
+      rgb(255 0 0 / 40%) 0%,
+      rgb(255 255 255 / 45%) 100%
     ),
     url(../assets/img/theater-bg.jpg);
   background-position: center;
@@ -10700,7 +10700,7 @@ header.masthead h1 {
   top: 3.5rem;
 }
 nav#mainNav {
-  background: #ff0000;
+  background: #ff4040;
 }
 .col-lg-10.align-self-end.mb-4.page-title {
   background: #00000040;
