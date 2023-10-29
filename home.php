@@ -27,7 +27,7 @@
 
             </div>
             <div class="col-right">
-                <img data-tilt src="./assets/img/hero-img.jpg" alt="Home image" class="img-fluid">
+                <img data-tilt src="./assets/img/depan.jpg" alt="Home image" class="img-fluid">
             </div>
         </div>
     </div>
