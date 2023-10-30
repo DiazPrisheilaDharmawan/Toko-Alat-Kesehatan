@@ -10,7 +10,7 @@
                                         <!-- Start .row -->
                                         <div class="col-lg-6">
                                             <!-- col-lg-6 start here -->
-                                            <div class="invoice-logo"><img width="100" src="./assets/img/hero-img.jpg" alt="Invoice logo"></div>
+                                            <div class="invoice-logo"><img width="100" style="border-radius: 100%;" src="./assets/img/depan.jpg" alt="Invoice logo"></div>
                                         </div>
                                         <!-- col-lg-6 end here -->
                                         <div class="col-lg-6">
@@ -18,9 +18,9 @@
                                             <div class="invoice-from">
                                                 <ul class="list-unstyled text-right">
                                                     <li><h3>Toko Alat Kesehatan</h3></li>
-                                                    <li>2500 Ridgepoint Dr, Suite 105-C</li>
-                                                    <li>Austin TX 78754</li>
-                                                    <li>VAT Number EU826113958</li>
+                                                    <li>Jln. Karang Pilang No. 20</li>
+                                                    <li>Surabaya, Jawa Timur, Indonesia</li>
+                                                    <li>post code 62340</li>
                                                 </ul>
                                             </div>
                                         </div>

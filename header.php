@@ -22,3 +22,10 @@
 
 <script src="admin/assets/vendor/jquery/jquery.min.js"></script>
 <script src="admin/assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+
+ <!-- jsPDF -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+ <script type="text/javascript" src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+ <script type="text/javascript" src="https://html2canvas.hertzen.com/dist/html2canvas.js"></script> 
+ <script type="text/javascript"></script>
