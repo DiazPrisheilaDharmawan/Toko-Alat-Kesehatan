@@ -38,7 +38,7 @@
 
                     <div class="text-center">
                         <button class="btn btn-block btn-outline-primary">Buat Pesanan</button>
-                        <a href="index.php?page=receipt" target="_blank">print receipt</a>
+                        <a href="index.php?page=receipt" target="_blank">Cetak Faktur</a>
                     </div>
                 </form>
             </div>
